@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right,rgb(171, 173, 173),rgb(240, 236, 236),rgb(168, 171, 171));
+    
+}
+.headings{
+    margin: 10px auto;
+}
+.form-group ul {
+display: flex;
+flex-direction: row;
+justify-content: flex-start; 
+list-style: none;
+padding: 0;
+
+}
+
+.form-group ul li {
+margin: 0 5px ; 
+color: orange;
+
+}
+.marks{
+    color: red;
+}
